@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @garbosz
-- 👀 I’m interested in python(obviously) music production and general tech stuff
-- 🌱 I’m currently learning python and general software developement
-- 💞️ I’m looking to collaborate on i dont even know yet lol
-- 📫 How to reach me twitter using @zac_garbos
+mostly just working on random projects
+Obsidian power user and learning Nvim as an obsidian note editor.
+idk what im doing half the time ngl
 
 <!---
 garbosz/garbosz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
